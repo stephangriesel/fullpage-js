@@ -1,0 +1,42 @@
+h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    color:#FFF;
+}
+
+.s1 {
+    background: url("https://picsum.photos/id/237/680/480");
+    background-size:cover;
+}
+.s2 {
+    background: url("https://picsum.photos/id/233/680/480");
+    background-size:cover;
+    h1 {
+        text-align:left;
+        font-size:3rem;
+        margin-left:1.2rem;
+    }
+}
+.s3 {
+    background: url("https://picsum.photos/id/236/680/480");
+    background-size:cover;
+    h1 {
+        text-align:right;
+        margin:2em;
+        font-size:2.5rem;
+    }
+
+}
+
+// .fp-tooltip, .fp-right {
+//     font-size:1.6rem !important;
+// }
+
+span {
+    background:#FFFFFF !important;
+}
+
+.fp-slidesNav, .fp-bottom {
+    margin-left:1rem !important;
+}
+
